@@ -8,7 +8,7 @@ public class ConversaoTipoPrimitivoNumerico {
 			double a = 1;
 			System.out.println(a);
 			
-			// Conversão explícita (CAST)
+			// Converse explícita (CAST)
 			float b = (float) 1.123456788888; 
 			System.out.println(b);
 			
